@@ -6,3 +6,7 @@
 $git init
 Initialized empty git repository in C/Users/qwerty/
 ```
+
+- [X] Done with Task 1
+- [X] Done with Task 2
+- [ ] Not done yet with task 3
